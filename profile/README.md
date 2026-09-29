@@ -48,7 +48,7 @@ Our focus is on building a reliable, maintainable, privacy-conscious translation
 
 ## Projects
 
-**[Translate It](https://github.com/translate-it-app/Translate-It)**
+**[Translate It](https://github.com/Translate-It-App/Translate-It)**
 The main browser extension for Chrome and Firefox.
 
 ---
