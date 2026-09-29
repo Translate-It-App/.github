@@ -40,6 +40,12 @@ Translate It is developed openly and welcomes bug reports, feature requests, cod
 
 Our focus is on building a reliable, maintainable, privacy-conscious translation ecosystem for the web.
 
+## Support & Partnerships
+
+**Sponsorship** supports the continued development and maintenance of Translate It through [GitHub Sponsors](https://github.com/sponsors/Amm1rr). See [SPONSORSHIP.md](https://github.com/Translate-It-App/Translate-It/blob/main/SPONSORSHIP.md) for details.
+
+**Partnerships** involving technical, ecosystem, or commercial collaboration are handled separately. See [PARTNERSHIPS.md](https://github.com/Translate-It-App/Translate-It/blob/main/PARTNERSHIPS.md) or contact [partnerships@translate-it.app](mailto:partnerships@translate-it.app).
+
 ## Projects
 
 **[Translate It](https://github.com/translate-it-app/Translate-It)**
