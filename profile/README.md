@@ -1,12 +1,12 @@
 # Translate It
 
-**Translate It** is an open-source project focused on making translation on the web fast, seamless, and accessible.
+**[Translate It!](https://github.com/Translate-It-App/Translate-It)** is an open-source project focused on making translation on the web fast, seamless, and accessible.
 
 Our goal is to build practical translation tools that integrate naturally into the browsing experience, from quick text translation to full-page translation and AI-powered features.
 
 ## Translate It Browser Extension
 
-Our main project is **Translate It**, a cross-browser extension for Chrome and Firefox.
+Our main project is **Translate It!**, a cross-browser extension for Chrome and Firefox.
 
 It provides multiple ways to translate content without interrupting your workflow, including:
 
@@ -24,7 +24,7 @@ It provides multiple ways to translate content without interrupting your workflo
 
 ### Translation Providers
 
-Translate It supports both traditional and AI-based translation services, including:
+Translate It! supports both traditional and AI-based translation services, including:
 
 * Google Translate
 * Gemini
@@ -36,19 +36,23 @@ Translate It supports both traditional and AI-based translation services, includ
 
 ## Open Source
 
-Translate It is developed openly and welcomes bug reports, feature requests, code contributions, documentation improvements, and translations.
+Translate It! is developed openly and welcomes bug reports, feature requests, code contributions, documentation improvements, and translations.
 
 Our focus is on building a reliable, maintainable, privacy-conscious translation ecosystem for the web.
 
 ## Support
 
-Translate It is community-driven and open source. You can support the project by contributing code, documentation, and translations, starring the repository on GitHub, and sharing feedback and bug reports.
+Translate It! is community-driven and open source. You can support the project by contributing code, documentation, and translations, starring the repository on GitHub, and sharing feedback and bug reports.
 
 Financial support helps with continued development and maintenance through [GitHub Sponsors](https://github.com/sponsors/Translate-It-App). See [SPONSORSHIP.md](https://github.com/Translate-It-App/Translate-It/blob/main/SPONSORSHIP.md) for details.
 
+## Partnerships
+
+For technical, ecosystem, or commercial collaboration inquiries, see our [Partnerships](https://github.com/Translate-It-App/Translate-It/blob/main/PARTNERSHIPS.md) page.
+
 ## Projects
 
-**[Translate It](https://github.com/Translate-It-App/Translate-It)**
+**[Translate It!](https://github.com/Translate-It-App/Translate-It)**
 The main browser extension for Chrome and Firefox.
 
 ---
